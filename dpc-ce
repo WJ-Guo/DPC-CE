@@ -1,5 +1,5 @@
-				clear all;  
-                clc;
+    %	clear all;  
+     %           clc;
 %                 close all;
 				load flame.txt;
 				
