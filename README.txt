@@ -1,6 +1,6 @@
 /*
      DPC_CE testing code
-     WEN JIE GUO (email: liangjing@zzu.edu.cn) 
+     WEN JIE GUO (email: wj.guo@zju.edu.cn) 
      6th Feb. 2022
 */
 
